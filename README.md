@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishan7kumar
+- 👋 Hi, I’m Kishan Kumar
 - 👀 I’m interested in designing and developing web applications
 - 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
