@@ -17,6 +17,7 @@ You can also contact me here:
 
 
 <a href="www.linkedin.com/in/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="kishankumar3202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"></a>
 
 
 **Tools and Technologies I work on:** 
