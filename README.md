@@ -11,13 +11,13 @@
 - 👀 I’m interested in designing and developing web applications
 - 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
-- 📫 How to reach me kishankumar3202@gmail.com
 
 You can also contact me here:
 
 
-<a href="www.linkedin.com/in/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="kishankumar3202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.hackerrank.com/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="LinkedIn"></a>
 
 
 **Tools and Technologies I work on:** 
