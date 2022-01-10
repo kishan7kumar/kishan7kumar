@@ -8,23 +8,40 @@
 
 <hr>
 
+**A little about me:**
+
 - 👀 I’m interested in designing and developing web applications
 - 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
+- 📫 You can mail me here - kishankumar3202@gmail.com.
 
-You can also contact me here:
+<div align="left">
 
+<i>You can also contact me here:</i><br>
 
 <a href="https://www.linkedin.com/in/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="kishankumar3202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/kishankumar3202" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="LinkedIn"></a>
 
 
 **Tools and Technologies I work on:** 
 <p align="left">
 
-
-  <img src="https://user-images.githubusercontent.com/53033119/148747109-4871acba-4f04-4443-96f0-bef9a957209a.png" width="50"><img src="https://user-images.githubusercontent.com/53033119/148747254-cf897777-304f-4c12-9757-7249e14a54d0.png" width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/220px-Kubernetes_logo_without_workmark.svg.png" width="50"><img src="https://www.pngitem.com/pimgs/m/340-3408094_jenkins-ci-hd-png-download.png" width="50"><img src="https://user-images.githubusercontent.com/53033119/148747562-6b3e439c-f047-4296-a7bb-ab240fa9bc5b.png" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.gifer.com/origin/db/db3cb258e9bbb78c5851a000742e5468_w200.gif" width="50">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
   
 </p>
 
