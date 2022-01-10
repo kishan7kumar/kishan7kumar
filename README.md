@@ -1,5 +1,5 @@
 
-<h2> Hi there <img src="https://user-images.githubusercontent.com/53033119/148754613-b4e8196a-9b1d-421f-825a-e2e012e4e490.gif" width="30"/>, Welcome to my GITHUB Profile</h2> 
+<h2> Hi there <img src="https://user-images.githubusercontent.com/53033119/148754613-b4e8196a-9b1d-421f-825a-e2e012e4e490.gif" width="30"/>, Welcome to my GitHub Profile</h2> 
 
   [![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
