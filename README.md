@@ -4,9 +4,9 @@
   [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
 
 <div align="left">
-<img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyonight" />
+<img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyoday" />
 
-<img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan7kumar&layout=compact&theme=tokyonight" />
+<img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan7kumar&layout=compact&theme=tokyoday" />
 </div>
 
 <hr>
