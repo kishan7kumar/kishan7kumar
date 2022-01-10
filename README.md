@@ -1,4 +1,7 @@
-<h2> I'm Kishan Kumar </h2>
+<h2> I'm Kishan Kumar </h2>   
+
+  [![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
 
 <div align="left">
 <img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyonight" />
@@ -44,6 +47,7 @@
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
   
 </p>
+     
 
 <!---
 kishan7kumar/kishan7kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
