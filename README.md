@@ -19,7 +19,7 @@
 - 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
 - 📫 You can mail me here - kishankumar3202@gmail.com
-- :globe_with_meridians: Checkout my Website - https://kishankumar.in
+- :globe_with_meridians: Checkout my Website - https://kishankumar.in [Not yet ready]
 
 <div align="left">
 
