@@ -4,8 +4,6 @@
   [![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
   
-  Checkout my Website:- https://kishankumar.in
-
 <div align="left">
 <img width = "48%" height ="40%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyoday" />
 
@@ -19,7 +17,8 @@
 - 👀 I’m interested in designing and developing web applications
 - 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
-- 📫 You can mail me here - kishankumar3202@gmail.com.
+- 📫 You can mail me here - kishankumar3202@gmail.com
+- :globe_with_meridians: Checkout my Website - https://kishankumar.in
 
 <div align="left">
 
