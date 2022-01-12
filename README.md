@@ -4,7 +4,7 @@
   [![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
   
-  https://kishan7kumar.github.io/kishan-kumar/
+  Checkout my Website:- https://kishankumar.in
 
 <div align="left">
 <img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyoday" />
