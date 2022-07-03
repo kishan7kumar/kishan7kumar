@@ -16,7 +16,6 @@
 **A little about me:**
 
 - 👀 I’m interested in designing and developing web applications
-- 🌱 I’m currently working as an Associate Developer
 - 💞️ I’m looking to collaborate on open source web development projects
 - 📫 You can mail me here - kishankumar3202@gmail.com
 - :globe_with_meridians: Checkout my Website - https://kishankumar.in [Not yet ready]
