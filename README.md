@@ -11,7 +11,7 @@
   
 </div>
 
-<hr>
+<!-- <hr> -->
 
 **A little about me:**
 
