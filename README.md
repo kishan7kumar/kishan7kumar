@@ -7,7 +7,7 @@
 <div align="left">
 <!-- <img   width="48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyoday" /> -->
 
-<!-- <img width="40%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan7kumar&layout=compact&theme=tokyoday" /> -->
+<img width="40%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan7kumar&layout=compact&theme=tokyoday" /> 
   
 </div>
 
