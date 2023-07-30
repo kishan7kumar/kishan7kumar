@@ -3,7 +3,7 @@
 
   [![Transforming world using Web Apps](https://github.com/kishan7kumar/kishan7kumar/assets/53033119/86d9a689-af16-433f-80c3-83ed1f87bd25)
   ![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/kishan7kumar)](https://badges.pufler.dev)
+
   
 <div align="left">
 <!-- <img   width="48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=kishan7kumar&show_icons=true&theme=tokyoday" />  -->
