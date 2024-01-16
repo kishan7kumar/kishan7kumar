@@ -19,7 +19,7 @@
 - 👀 I’m interested in designing and developing web applications
 - 💞️ I’m looking to collaborate on open source web development projects
 - 📫 You can mail me here - kishankumar3202@gmail.com
-- :globe_with_meridians: Checkout my Portfolio - https://kishankumar.in [Work in Progress]
+<!-- - :globe_with_meridians: Checkout my Portfolio - https://kishankumar.in [Work in Progress] -->
 
 <div align="left">
 
