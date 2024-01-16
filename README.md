@@ -1,8 +1,8 @@
 
 <h2> Hi there <img src="https://user-images.githubusercontent.com/53033119/148754613-b4e8196a-9b1d-421f-825a-e2e012e4e490.gif" width="30"/>, Welcome to my GitHub Profile</h2> 
 
-  [![Transforming world using Web Apps](https://github.com/kishan7kumar/kishan7kumar/assets/53033119/86d9a689-af16-433f-80c3-83ed1f87bd25)
-  ![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)](https://badges.pufler.dev)
+  ![Transforming world using Web Apps](https://github.com/kishan7kumar/kishan7kumar/assets/53033119/6c56448e-7125-4260-be7d-3d0d341434db)
+  ![Visits Badge](https://badges.pufler.dev/visits/kishan7kumar/kishan7kumar)
 
   
 <div align="left">
